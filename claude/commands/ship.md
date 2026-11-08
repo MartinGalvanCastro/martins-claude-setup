@@ -30,7 +30,7 @@ Use exactly these names. Claude Code uses the middle column. OpenCode and Codex 
 |---|---|---|
 | Explore | built-in `Explore` | `explorer` |
 | Plan review | `ecc:architect` | `architect` |
-| Python implementation | `api-scaffolding:fastapi-pro` for FastAPI repos, else `python-development:python-pro` | `be-python` |
+| Python implementation | `api-scaffolding:api-scaffolding-fastapi-pro` for FastAPI repos, else `python-development:python-pro` | `be-python` |
 | Node/TypeScript implementation | `javascript-typescript:typescript-pro` | `be-node` |
 | Other implementation | `be-java`, `be-go`, `fe-react`, `fe-mobile`, `devops`, `observability` | same |
 | Design, security, QA | `system-designer`, `security`, `qa-reviewer` | same |

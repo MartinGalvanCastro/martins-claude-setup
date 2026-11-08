@@ -47,7 +47,7 @@ No hay archivos de agentes en este repo. El setup es híbrido: en Claude Code, c
 | Rol | En Claude Code se usa | Plugin necesario | En otras herramientas |
 |---|---|---|---|
 | architect | `ecc:architect` (Opus, solo lectura) | `ecc` | crear `architect` |
-| be-python | `api-scaffolding:fastapi-pro` o `python-development:python-pro` (Sonnet) | `api-scaffolding`, `python-development` | crear `be-python` |
+| be-python | `api-scaffolding:api-scaffolding-fastapi-pro` o `python-development:python-pro` (Sonnet) | `api-scaffolding`, `python-development` | crear `be-python` |
 | be-node | `javascript-typescript:typescript-pro` (Sonnet) | `javascript-typescript` | crear `be-node` |
 | explorer | `Explore`, integrado en Claude Code (Haiku, solo lectura) | ninguno | crear `explorer` |
 
