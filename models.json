@@ -1,0 +1,7 @@
+{
+  "opencode": {
+    "opus": "opencode-go/kimi-k3.1-pro",
+    "sonnet": "opencode-go/kimi-k2.7-code",
+    "haiku": "opencode-go/glm-5.3-flash"
+  }
+}
